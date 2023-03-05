@@ -3,7 +3,7 @@ package JavaProgram;
 import java.util.Scanner;
 
 public class Pallendirom {
-	
+	//Pallendirom program
 	public static void main() {
 		
 		Scanner sc=new Scanner(System.in);
