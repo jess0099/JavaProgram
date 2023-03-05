@@ -5,14 +5,14 @@ import java.util.Scanner;
 public class Pallendirom {
 	//Pallendirom program
 	public static void main() {
-		
+		//system initlize output
 		Scanner sc=new Scanner(System.in);
 		
 		int num=sc.nextInt();
 		
 		int rev=0;
 		int f=num;
-		
+	//reverse program	
 		while(num>0) {
 			
 			int remind=num%10;
